@@ -4,7 +4,8 @@ public enum ExpertiseType {
     EXTRA("внесудебная"),
     PRE("досудебная"),
     JUDICAL("судебная"),
-    NONJUDICAL("не будет использоваться в суде");
+    NONJUDICAL("не будет использоваться в суде"),
+    EVALUATION_REPORT("отчет об оценке");
 
     private final String title;
 

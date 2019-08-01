@@ -4,7 +4,7 @@
     <artifactId>sudexpa-dataexport</artifactId>
     <groupId>ru.sudexpa.workflow</groupId>
     <name>sudexpa-dataexport</name>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
     <packaging>jar</packaging>
 
     <properties>

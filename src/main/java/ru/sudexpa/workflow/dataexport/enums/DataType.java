@@ -1,5 +1,5 @@
 package ru.sudexpa.workflow.dataexport.enums;
 
 public enum DataType {
-    QUESTION, EXPERTISE, LETTER, REVIEW
+    QUESTION, EXPERTISE, LETTER, REVIEW, EVALUATION_REPORT
 }
